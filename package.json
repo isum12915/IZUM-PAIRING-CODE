@@ -1,7 +1,7 @@
 {
-  "name": "arslan-pairing-site",
+  "name": "Isum-pairing-site",
   "version": "0.0.1",
-  "description": "A multi functional whatsapp bot Web paircode Created By ArslanMD Official.",
+  "description": "A multi functional whatsapp bot Web paircode Created By IZUM Official.",
   "main": "arslan.js",
   "scripts": {
     "start": "pm2 start arslan.js --deep-monitoring --attach --name Arslan-MD",
